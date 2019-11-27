@@ -1,0 +1,1 @@
+[{"id":"58833ce2.dc7e64","type":"function","z":"bbea154b.f013a8","name":"","func":"msg.payload = {\"latitude\":22.997279,\"longitude\":120.221199};\nreturn msg;","outputs":1,"noerr":0,"x":350,"y":480,"wires":[["83f993e0.7b12c","f3b111bb.97fdc"]]}]
